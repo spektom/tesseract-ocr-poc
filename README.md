@@ -1,2 +1,5 @@
-# tesseract-ocr-poc
-Testing OCR using Tesseract API
+tesseract-ocr-poc
+==================
+
+Testing OCR using Tesseract API.
+
